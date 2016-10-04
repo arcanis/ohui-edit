@@ -1,0 +1,1 @@
+export { setupEmacsShortcuts } from './setupEmacsShortcuts';

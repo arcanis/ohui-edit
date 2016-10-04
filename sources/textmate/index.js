@@ -1,0 +1,1 @@
+export { setupTextmateHighlighter } from './setupTextmateHighlighter';
