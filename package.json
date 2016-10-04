@@ -15,7 +15,7 @@
     "text-buffer": "^9.3.0"
   },
   "peerDependencies": {
-    "ohui": "*"
+    "ohui": "^0.0.7"
   },
   "devDependencies": {
     "babel-cli": "^6.16.0",
